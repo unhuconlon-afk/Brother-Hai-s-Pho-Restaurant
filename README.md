@@ -2,8 +2,8 @@
 
 A modern, fully responsive restaurant website with interactive pho customization, real-time pricing, and order submission.
 
-**Live Demo:** https://makie-clean-code.github.io/brother-hais-pho/  
-**GitHub:** https://github.com/makie-clean-code/brother-hais-pho
+**Live Demo:** https://unhuconlon-afk.github.io/Brother-Hai-s-Pho-Restaurant/
+**GitHub:** https://github.com/unhuconlon-afk/Brother-Hai-s-Pho-Restaurant
 
 ## Features
 - Interactive pho builder (size, toppings, broth)
